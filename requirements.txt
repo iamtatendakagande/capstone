@@ -1,0 +1,14 @@
+# Data Processing and Connection
+duckdb
+pandas
+csvkit
+
+# Explainable AI (XAI)
+lime
+dice_ml
+
+#Visualization
+seaborn
+
+# Jupyter Support (Required for VS Code Notebooks)
+ipykernelseaborn
