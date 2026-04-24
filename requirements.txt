@@ -11,4 +11,4 @@ dice_ml
 seaborn
 
 # Jupyter Support (Required for VS Code Notebooks)
-ipykernelseaborn
+ipykernel
