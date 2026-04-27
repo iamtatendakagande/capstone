@@ -6,6 +6,8 @@ csvkit
 # Explainable AI (XAI)
 lime
 dice_ml
+adversarial-robustness-toolbox
+torch
 
 #Visualization
 seaborn
