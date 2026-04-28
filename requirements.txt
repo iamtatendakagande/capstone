@@ -2,6 +2,7 @@
 duckdb
 pandas
 csvkit
+statsmodels
 
 # Explainable AI (XAI)
 lime
